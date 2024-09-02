@@ -1,2 +1,2 @@
-# KVManager-K8s
-K8S KVManager
+# KVMX
+KVMX: Kubernetes Virtualization Manager eXtension
